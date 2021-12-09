@@ -33,12 +33,7 @@ public class DemoTest
   
 	
      }
-    public void display6()
-    { 
-       System.out.println("Running display method6");
-  
-	
-     }
+    
 
 
 }
