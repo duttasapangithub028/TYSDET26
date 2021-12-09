@@ -27,12 +27,14 @@ public class DemoTest
   
 	
      }
-    public void display5()
+    public void display7()
     { 
-       System.out.println("Running display method5");
+       System.out.println("Running display method7");
+       System.out.println("new changes");
   
 	
      }
+    
     
 
 
