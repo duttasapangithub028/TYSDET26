@@ -6,7 +6,7 @@ public class DemoTest
 {   @Test
 	public void display()
 	{ 
-	   System.out.println("Running display method");
+	   System.out.println("Running display method1");
 	  	
 	}
     public void display2()
@@ -15,5 +15,12 @@ public class DemoTest
   
 	
      }
+    public void display3()
+    { 
+       System.out.println("Running display method3");
+  
+	
+     }
+
 
 }
