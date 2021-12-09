@@ -27,6 +27,12 @@ public class DemoTest
   
 	
      }
+    public void display5()
+    { 
+       System.out.println("Running display method5");
+  
+	
+     }
 
 
 }
