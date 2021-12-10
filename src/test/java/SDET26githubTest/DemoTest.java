@@ -34,6 +34,13 @@ public class DemoTest
   
 	
      }
+    public void display9()
+    { 
+       System.out.println("Running display method9");
+       System.out.println("new changes");
+  
+	
+     }
     
     
 
