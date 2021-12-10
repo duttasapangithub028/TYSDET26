@@ -27,6 +27,7 @@ public class DemoTest
   
 	
      }
+
     public void display5()
     { 
        System.out.println("Running display method4");
@@ -40,4 +41,20 @@ public class DemoTest
 	
      }
 
+    public void display7()
+    { 
+       System.out.println("Running display method7");
+       System.out.println("new changes");
+  
+	
+     }
+    public void display9()
+    { 
+       System.out.println("Running display method9");
+       System.out.println("new changes");
+
+
+     }
+    
+    
 }
