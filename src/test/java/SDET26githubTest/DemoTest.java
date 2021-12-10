@@ -52,9 +52,8 @@ public class DemoTest
     { 
        System.out.println("Running display method9");
        System.out.println("new changes");
+       System.out.println("new changes2");
 
-
-  
 	
      }
     
