@@ -43,7 +43,8 @@ public class DemoTest
     { 
        System.out.println("Running display method8");
        System.out.println("new changes");
-       System.out.println("jenkins poll-scm");
+       System.out.println("jenkins poll-scm1");
+       System.out.println("jenkins poll-scm2");
   
 	
      }
