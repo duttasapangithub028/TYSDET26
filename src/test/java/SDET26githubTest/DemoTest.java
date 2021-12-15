@@ -30,14 +30,28 @@ public class DemoTest
   
 	
      }
+
     @Test
+    public void display5()
+    { 
+       System.out.println("Running display method4");
+  
+	
+     }
+    public void display6()
+    { 
+       System.out.println("Running display method4");
+  
+	
+     }
+
+
     public void display7()
     { 
        System.out.println("Running display method7");
 
-  
-	
      }
+
     @Test
     public void display8()
     { 
@@ -54,7 +68,13 @@ public class DemoTest
        System.out.println("new changes");
        System.out.println("jenkins poll-scm3");
        System.out.println("jenkins poll-scm4");
- 
-     }
-    
+    }
+    @Test
+    public void display10()
+    { 
+       System.out.println("Running display method8");
+       System.out.println("new changes");
+       System.out.println("jenkins poll-scm5");
+       System.out.println("jenkins poll-scm6");
+    }      
 }

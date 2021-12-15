@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="86" started-at="2021-12-10T11:10:09Z" finished-at="2021-12-10T11:10:10Z">
+  <suite name="Default suite" duration-ms="177" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="86" started-at="2021-12-10T11:10:09Z" finished-at="2021-12-10T11:10:10Z">
-      <class name="SDET26githubTest.Demo1Test">
-        <test-method status="PASS" signature="demo1Test()[pri:0, instance:SDET26githubTest.Demo1Test@4520ebad]" name="demo1Test" duration-ms="22" started-at="2021-12-10T11:10:10Z" finished-at="2021-12-10T11:10:10Z">
+    <test name="Default test" duration-ms="177" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+      <class name="SDET26githubTest.DemoTest">
+        <test-method status="PASS" signature="display()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display" duration-ms="22" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo1Test -->
-        <test-method status="PASS" signature="demo2Test()[pri:0, instance:SDET26githubTest.Demo1Test@4520ebad]" name="demo2Test" duration-ms="3" started-at="2021-12-10T11:10:10Z" finished-at="2021-12-10T11:10:10Z">
+        </test-method> <!-- display -->
+        <test-method status="PASS" signature="display2()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display2" duration-ms="3" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo2Test -->
-      </class> <!-- SDET26githubTest.Demo1Test -->
+        </test-method> <!-- display2 -->
+        <test-method status="PASS" signature="display3()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display3" duration-ms="5" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display3 -->
+        <test-method status="PASS" signature="display4()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display4" duration-ms="5" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method status="PASS" signature="display5()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display5" duration-ms="3" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display5 -->
+        <test-method status="PASS" signature="display8()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display8" duration-ms="3" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display8 -->
+        <test-method status="PASS" signature="display9()[pri:0, instance:SDET26githubTest.DemoTest@4520ebad]" name="display9" duration-ms="3" started-at="2021-12-15T10:17:37Z" finished-at="2021-12-15T10:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display9 -->
+      </class> <!-- SDET26githubTest.DemoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
