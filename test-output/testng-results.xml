@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59" started-at="2021-12-09T08:10:35Z" finished-at="2021-12-09T08:10:35Z">
+  <suite name="Default suite" duration-ms="86" started-at="2021-12-10T11:10:09Z" finished-at="2021-12-10T11:10:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59" started-at="2021-12-09T08:10:35Z" finished-at="2021-12-09T08:10:35Z">
-      <class name="SDET26githubTest.DemoTest">
-        <test-method status="PASS" signature="display()[pri:0, instance:SDET26githubTest.DemoTest@56f4468b]" name="display" duration-ms="15" started-at="2021-12-09T08:10:35Z" finished-at="2021-12-09T08:10:35Z">
+    <test name="Default test" duration-ms="86" started-at="2021-12-10T11:10:09Z" finished-at="2021-12-10T11:10:10Z">
+      <class name="SDET26githubTest.Demo1Test">
+        <test-method status="PASS" signature="demo1Test()[pri:0, instance:SDET26githubTest.Demo1Test@4520ebad]" name="demo1Test" duration-ms="22" started-at="2021-12-10T11:10:10Z" finished-at="2021-12-10T11:10:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- display -->
-      </class> <!-- SDET26githubTest.DemoTest -->
+        </test-method> <!-- demo1Test -->
+        <test-method status="PASS" signature="demo2Test()[pri:0, instance:SDET26githubTest.Demo1Test@4520ebad]" name="demo2Test" duration-ms="3" started-at="2021-12-10T11:10:10Z" finished-at="2021-12-10T11:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2Test -->
+      </class> <!-- SDET26githubTest.Demo1Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

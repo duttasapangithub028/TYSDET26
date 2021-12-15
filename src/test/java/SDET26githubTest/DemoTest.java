@@ -9,33 +9,43 @@ public class DemoTest
 	   System.out.println("Running display method1");
 	  	
 	}
+    @Test
     public void display2()
     { 
        System.out.println("Running display method2");
   
 	
      }
+    @Test
     public void display3()
     { 
        System.out.println("Running display method3");
   
 	
      }
+    @Test
     public void display4()
     { 
        System.out.println("Running display method4");
   
 	
      }
+    @Test
     public void display7()
     { 
        System.out.println("Running display method7");
+
+  
+	
+     }
+    @Test
+    public void display8()
+    { 
+       System.out.println("Running display method8");
        System.out.println("new changes");
+       System.out.println("jenkins poll-scm");
   
 	
      }
     
-    
-
-
 }
