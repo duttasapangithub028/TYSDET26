@@ -12,7 +12,7 @@ public class DemoTest
     public void display2()
     { 
        System.out.println("Running display method2");
-  
+  	System.out.println("Running display method1");
 	
      }
     public void display3()
