@@ -7,13 +7,14 @@ public class DemoTest
 	public void display()
 	{ 
 	   System.out.println("Running display method1");
-	  	
+	         System.out.println("Running display method2");
+	
 	}
     @Test
     public void display2()
     { 
        System.out.println("Running display method2");
-  
+  	System.out.println("Running display method1");
 	
      }
     @Test
