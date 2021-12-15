@@ -7,7 +7,8 @@ public class DemoTest
 	public void display()
 	{ 
 	   System.out.println("Running display method1");
-	  	
+	         System.out.println("Running display method2");
+	
 	}
     public void display2()
     { 
