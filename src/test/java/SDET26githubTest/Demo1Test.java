@@ -20,5 +20,10 @@ public class Demo1Test
    {
 	   System.out.println("Test file running3");
    }
+   @Test 
+   public void demo4Test()
+   {
+	   System.out.println("Test file running4");
+   }
    
 }
