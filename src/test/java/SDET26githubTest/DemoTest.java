@@ -45,8 +45,16 @@ public class DemoTest
        System.out.println("new changes");
        System.out.println("jenkins poll-scm1");
        System.out.println("jenkins poll-scm2");
-  
-	
+ 
+     }
+    @Test
+    public void display9()
+    { 
+       System.out.println("Running display method8");
+       System.out.println("new changes");
+       System.out.println("jenkins poll-scm3");
+       System.out.println("jenkins poll-scm4");
+ 
      }
     
 }
